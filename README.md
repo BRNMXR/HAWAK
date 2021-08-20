@@ -1,0 +1,2 @@
+# HAWAK
+[HAWAK] TestNet
