@@ -1,4 +1,5 @@
-   {
+  {
+    "info": {
         "url_png_icon_64x64": "https://github.com/BRNMXR/HAWAK/blob/443006f30fabeb920c71bd5ce623a21aa59bc7cf/hawaklogo.png",
         "url_png_logo": "https://github.com/BRNMXR/HAWAK/raw/main/hawaklogo.png",
         "location": "Abu Dhabi, United Arab Emirates",
@@ -25,3 +26,4 @@
             "company": ""
                  }
     }
+  }
