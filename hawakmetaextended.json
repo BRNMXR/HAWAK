@@ -1,0 +1,32 @@
+{"name":"The h₳w₳k Pool","ticker":"HAWAK","description":"Hawak in arabic means to soar above all, and not be limited by anythining. Hawak in Tagalog means to hold or grasp indefinitely. 845c5867743cc047ec","homepage":"https://github.com/BRNMXR/HAWAK","nonce":"1666631158"}
+
+{
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://github.com/BRNMXR/HAWAK/blob/443006f30fabeb920c71bd5ce623a21aa59bc7cf/hawaklogo.png",
+        "url_png_logo": "https://github.com/BRNMXR/HAWAK/raw/main/hawaklogo.png",
+        "location": "Abu Dhabi, United Arab Emirates",
+        "social": {
+            "twitter_handle": "BRNMXR",
+            "telegram_handle": "BRN_MXR",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "BRNMXR [HAWAK]#9993",
+            "github_handle": "BRNMXR"
+        },
+        "company": {
+            "name": "Hawak",
+            "addr": "",
+            "city": "Abu Dhabi",
+            "country": "UAE",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Passionate Cardano Builder",
+            "server": "Bare Metal - Relays in multiple Countries",
+            "company": ""
+        }
+    }
+}
